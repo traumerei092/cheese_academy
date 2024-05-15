@@ -10,7 +10,7 @@ $('.staffData').slick({
     variableWidth: true,
     dots: true,
 });
-  
+
 $(function () {
     $('a[href^="#"]').click(function () {
     var adjust = 0;
